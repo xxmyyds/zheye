@@ -38,3 +38,8 @@ export default defineComponent({
   }
 })
 </script>
+<style scoped>
+.submit-area {
+  width: 58px;
+}
+</style>
